@@ -129,7 +129,7 @@ Todo-App/
 - **CORS**: Configured to allow cross-origin resource sharing.
 
 ### Deployed Link: 
-[[https://todos-app-ushasree-mangi.vercel.app/](https://todos-app-ushasree-mangi.vercel.app/)
+[https://todos-app-ushasree-mangi.vercel.app/](https://todos-app-ushasree-mangi.vercel.app/)
 
 
 ## License

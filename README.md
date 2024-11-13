@@ -128,6 +128,8 @@ Todo-App/
 - **JWT Tokens**: Used to secure API routes and protect user data.
 - **CORS**: Configured to allow cross-origin resource sharing.
 
+### Deployed Link: 
+[https://todolist-using-redux-bymk.netlify.app/](https://todos-app-ushasree-mangi.vercel.app/)
 
 
 ## License

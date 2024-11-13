@@ -40,7 +40,7 @@ This is a full-stack Todo Web Application that allows users to manage their dail
 
 - Node.js
 - npm (Node Package Manager)
-- SQLite3 or MongoDB
+- SQLite 
 
 ### Steps to Run the Application
 
@@ -128,11 +128,7 @@ Todo-App/
 - **JWT Tokens**: Used to secure API routes and protect user data.
 - **CORS**: Configured to allow cross-origin resource sharing.
 
-## Future Enhancements
 
-- Implementing task categorization.
-- Adding task reminders and notifications.
-- Enhancing UI/UX for a better user experience.
 
 ## License
 
